@@ -120,7 +120,7 @@ class MyHomePage extends StatelessWidget {
                       TextButton(
                         child: Text('Nova Transação'),
                         style: TextButton.styleFrom(
-                          foregroundColor: Colors.purple,
+                          foregroundColor: Colors.black,
                         ),
                         onPressed: () {
                           print(titleController.text);
